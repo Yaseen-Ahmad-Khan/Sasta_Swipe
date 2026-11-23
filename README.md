@@ -155,8 +155,8 @@ If no food/dining offers found, return: []
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/917abdulahad-dot/Sasta-Swipe.git
-   cd Sasta-Swipe
+   git clone https://github.com/Yaseen-Ahmad-Khan/Sasta_Swipe.git
+   cd Sasta_Swipe
    ```
 
 2. **Install dependencies**
